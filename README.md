@@ -10,3 +10,5 @@
 ![image](https://github.com/lizeyujack/douyin_auto-reply/assets/53364734/31914440-f85c-4b5a-91d2-e0337b44fea5)、
 运行效果：https://www.bilibili.com/video/BV1JM4y1x7s1/
 
+# 直播自动回复机器人（适用于轻任务）
+```live.py```
